@@ -1,0 +1,45 @@
+2019-06-08T21:00:48+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function change_cod_payment_order_status(), 1 passed in C:\laragon\www\woocomerce\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in C:\laragon\www\woocomerce\wp-content\themes\smart\functions.php:782
+Stack trace:
+#0 C:\laragon\www\woocomerce\wp-includes\class-wp-hook.php(288): change_cod_payment_order_status('processing')
+#1 C:\laragon\www\woocomerce\wp-includes\plugin.php(203): WP_Hook->apply_filters('processing', Array)
+#2 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\gateways\cod\class-wc-gateway-cod.php(279): apply_filters('woocommerce_cod...', 'processing', Object(WC_Order))
+#3 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(888): WC_Gateway_COD->process_payment(439)
+#4 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1081): WC_Checkout->process_order_payment(439, 'cod')
+#5 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\c in C:\laragon\www\woocomerce\wp-content\themes\smart\functions.php on line 782
+
+2019-06-08T21:01:00+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function change_cod_payment_order_status(), 1 passed in C:\laragon\www\woocomerce\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in C:\laragon\www\woocomerce\wp-content\themes\smart\functions.php:782
+Stack trace:
+#0 C:\laragon\www\woocomerce\wp-includes\class-wp-hook.php(288): change_cod_payment_order_status('processing')
+#1 C:\laragon\www\woocomerce\wp-includes\plugin.php(203): WP_Hook->apply_filters('processing', Array)
+#2 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\gateways\cod\class-wc-gateway-cod.php(279): apply_filters('woocommerce_cod...', 'processing', Object(WC_Order))
+#3 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(888): WC_Gateway_COD->process_payment(439)
+#4 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1081): WC_Checkout->process_order_payment(439, 'cod')
+#5 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\c in C:\laragon\www\woocomerce\wp-content\themes\smart\functions.php on line 782
+
+2019-06-08T21:01:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function change_cod_payment_order_status(), 1 passed in C:\laragon\www\woocomerce\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in C:\laragon\www\woocomerce\wp-content\themes\smart\functions.php:782
+Stack trace:
+#0 C:\laragon\www\woocomerce\wp-includes\class-wp-hook.php(288): change_cod_payment_order_status('processing')
+#1 C:\laragon\www\woocomerce\wp-includes\plugin.php(203): WP_Hook->apply_filters('processing', Array)
+#2 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\gateways\cod\class-wc-gateway-cod.php(279): apply_filters('woocommerce_cod...', 'processing', Object(WC_Order))
+#3 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(888): WC_Gateway_COD->process_payment(439)
+#4 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1081): WC_Checkout->process_order_payment(439, 'cod')
+#5 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\c in C:\laragon\www\woocomerce\wp-content\themes\smart\functions.php on line 782
+
+2019-06-08T21:02:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function change_cod_payment_order_status(), 1 passed in C:\laragon\www\woocomerce\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in C:\laragon\www\woocomerce\wp-content\themes\smart\functions.php:782
+Stack trace:
+#0 C:\laragon\www\woocomerce\wp-includes\class-wp-hook.php(288): change_cod_payment_order_status('processing')
+#1 C:\laragon\www\woocomerce\wp-includes\plugin.php(203): WP_Hook->apply_filters('processing', Array)
+#2 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\gateways\cod\class-wc-gateway-cod.php(279): apply_filters('woocommerce_cod...', 'processing', Object(WC_Order))
+#3 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(888): WC_Gateway_COD->process_payment(439)
+#4 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1081): WC_Checkout->process_order_payment(439, 'cod')
+#5 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\c in C:\laragon\www\woocomerce\wp-content\themes\smart\functions.php on line 782
+
+2019-06-08T21:02:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function change_cod_payment_order_status(), 1 passed in C:\laragon\www\woocomerce\wp-includes\class-wp-hook.php on line 288 and exactly 2 expected in C:\laragon\www\woocomerce\wp-content\themes\smart\functions.php:782
+Stack trace:
+#0 C:\laragon\www\woocomerce\wp-includes\class-wp-hook.php(288): change_cod_payment_order_status('processing')
+#1 C:\laragon\www\woocomerce\wp-includes\plugin.php(203): WP_Hook->apply_filters('processing', Array)
+#2 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\gateways\cod\class-wc-gateway-cod.php(279): apply_filters('woocommerce_cod...', 'processing', Object(WC_Order))
+#3 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(888): WC_Gateway_COD->process_payment(439)
+#4 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1081): WC_Checkout->process_order_payment(439, 'cod')
+#5 C:\laragon\www\woocomerce\wp-content\plugins\woocommerce\includes\c in C:\laragon\www\woocomerce\wp-content\themes\smart\functions.php on line 782
+
